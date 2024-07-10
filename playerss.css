@@ -1,0 +1,12 @@
+body {
+  background-color: cornsilk;
+}
+h1 {
+  color: deeppink;
+}
+li {
+  color: blue;
+}
+img {
+  object-fit: cover;
+}
